@@ -27,7 +27,7 @@ namespace lab
 
 
             //output
-            lblname.Text=studentname.Text;
+            lblname.Text = studentname.Text;
             lblpassword.Text = password.Text;
             lbladdress.Text = address.Text;
             lblgraduation.Text = education.Text;
